@@ -1,4 +1,5 @@
-Music: 8.05.51  
+Music (arm64-v8a): 8.05.51  
+Music (arm-v7a): 8.05.51  
 Reddit: 2024.17.0  
 YouTube: 20.12.46  
 
