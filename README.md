@@ -4,7 +4,7 @@
 
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/notrohit1702/revanced-auto-update-personal/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/notrohit1702/revanced-auto-update-personal/actions/workflows/ci.yml)
+[![CI](https://github.com/notrohit1702/revanced-auto-update-personal/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/notrohit1702/revanced-auto-update-personal/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
 
