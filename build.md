@@ -1,6 +1,5 @@
 Facebook (arm64-v8a): 490.0.0.63.82  
-Music (arm64-v8a): 8.05.51  
-Music (arm-v7a): 8.05.51  
+Messenger (arm64-v8a): 509.0.0.57.109  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
