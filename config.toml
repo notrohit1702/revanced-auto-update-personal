@@ -15,3 +15,13 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "both"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
+[Facebook]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/facebook/"
+arch = "both"
