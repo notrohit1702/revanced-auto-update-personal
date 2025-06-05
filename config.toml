@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [Sync]
 apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit"
+uptodown-dlurl = "https://sync-for-reddit.en.uptodown.com/android"
 patcher-args = "-e 'Spoof client' -Oclient-id=jRUQQq758KYBN3GmxplBmg"
 
 [YouTube]
