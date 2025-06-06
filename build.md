@@ -1,5 +1,5 @@
 Facebook: 490.0.0.63.82  
-Messenger: 509.0.0.57.109  
+Messenger: 510.0.0.67.109  
 Music: 8.05.51  
 Reddit: 2024.17.0  
 YouTube: 20.12.46  
