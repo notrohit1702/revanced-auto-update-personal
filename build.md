@@ -1,7 +1,6 @@
 Facebook: 490.0.0.63.82  
-Messenger: 510.0.0.67.109  
 Music: 8.05.51  
-Sync: v23.06.30-13:39  
+Reddit: 2024.17.0  
 YouTube: 20.12.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
