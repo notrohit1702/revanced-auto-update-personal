@@ -7,6 +7,9 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Reddit]
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
