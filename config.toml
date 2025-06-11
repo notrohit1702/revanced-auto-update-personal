@@ -17,6 +17,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [Reddit]
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
+integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
